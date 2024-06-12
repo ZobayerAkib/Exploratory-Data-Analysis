@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Exploratory Data Analysis Projects
 
 This repository contains three data analysis projects based on different datasets: Bangladesh Premier League (BPL) data, Indian Premier League (IPL) data, and Daraz Bangladesh headphone sales dataset. Each project includes data cleaning, exploratory data analysis (EDA), visualization, and findings.
 
