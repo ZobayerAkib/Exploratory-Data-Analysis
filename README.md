@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Projects
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Exploratory+Data+Analysis+Projects)](https://git.io/typing-svg)
 
 This repository contains three data analysis projects based on different datasets: Bangladesh Premier League (BPL) data, Indian Premier League (IPL) data, and Daraz Bangladesh headphone sales dataset. Each project includes data cleaning, exploratory data analysis (EDA), visualization, and findings.
 
