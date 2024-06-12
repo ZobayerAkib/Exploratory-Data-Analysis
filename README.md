@@ -25,5 +25,4 @@ This repository contains three data analysis projects based on different dataset
    - **Key Findings:** Identified top-selling headphone brands, analyzed customer reviews and ratings, and explored price sensitivity in the market.
   
 
-## Repository Structure
 
